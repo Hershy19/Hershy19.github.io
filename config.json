@@ -8,10 +8,10 @@
   },
   "site": {
     "title": "Hershy19",
-    "description": "Developer Portfolio",
+    "description": "Manager expert",
     "seo": {
       "title": "Hershy19 - Developer Portfolio",
-      "description": "Developer Portfolio of Hershy19",
+      "description": "Manager expert Hershy19",
       "keywords": "developer, portfolio, github",
       "author": "Hershy19",
       "og_image": "https://avatars.githubusercontent.com/Hershy19",
@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Hershy19",
-    "tagline": "Developer and Creator."
+    "tagline": "Developer , Creator, architect"
   },
   "social_links": [
     {
@@ -61,9 +61,9 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "CGI",
+        "role": "Manager Expert",
+        "date": "15 July 2025",
         "responsibilities": [
           "Add your key responsibilities and achievements here",
           "Include specific technologies you worked with",
